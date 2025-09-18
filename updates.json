@@ -1,0 +1,11 @@
+{
+  "version": "0.1.1",
+  "notes": "Se elimino el menu que se abre con click derecho y muchos atajos de teclado que podrían ser molestos: Imprimir, Buscar, Ver Descargas, etc. Además se desactivaron las sugerencias de los formularios.",
+  "pub_date": "2025-09-18T15:42:31-03:00",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "https://github.com/facundopidal/MW-Updates/raw/refs/heads/main/downloads/multi-whatsapp_0.1.1_x64_en-US.msi.sig",
+      "url": "https://github.com/facundopidal/MW-Updates/raw/refs/heads/main/downloads/multi-whatsapp_0.1.1_x64_en-US.msi"
+    }
+  }
+}
