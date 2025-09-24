@@ -1,11 +1,11 @@
 {
-  "version": "0.1.1",
-  "notes": "Se elimino el menu que se abre con click derecho y muchos atajos de teclado que podrían ser molestos: Imprimir, Buscar, Ver Descargas, etc. Además se desactivaron las sugerencias de los formularios.",
-  "pub_date": "2025-09-18T15:42:31-03:00",
+  "version": "0.1.2",
+  "notes": "Se mejoro el detector de login y se agrego visualizacion de 5 cuentas por fila a pantallas grandes",
+  "pub_date": "2025-09-24T15:01:31-03:00",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbkxIYXBBbmZ3WXk5YUpsc1FseVdFQ2xkeEszSW9xMktGcFBlRzBFa2s3SEZIUUk4eXlDRWRFV0lFSnFEckdIUFFWWjlEdnJXYm0wSkJaRjRaTHMwbHBHeGtLNnFMeVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU4MjEwMTc2CWZpbGU6bXVsdGktd2hhdHNhcHBfMC4xLjFfeDY0X2VuLVVTLm1zaQpPa1lmcTRMWUw0L3ZUTkYybDhHK1BwME93NmhtSXNVK1QxdjgzWTF1cVIwdENWQzk5SHRGTWtFVXNlaUhZM3ZBR3R1MXBINFR5SmxPZUpFM3h1YkpCdz09Cg==",
-      "url": "https://github.com/facundopidal/MW-Updates/raw/refs/heads/main/downloads/multi-whatsapp_0.1.1_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbkxIYXBBbmZ3WXcreThHVlR2b0drWFU3dktDVzBER0RmUHlvNng2VURrcUZ2MDRBTDMrWERpY0h5YU1ZSG1GSE5iZno5Q1krSGlnNm5uMTc4MDlLMmZ0SDNGaHYwd0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU4NzM2ODI2CWZpbGU6bXVsdGktd2hhdHNhcHBfMC4xLjJfeDY0X2VuLVVTLm1zaQp6dzJEamxoVjhyODVYeXZ4ak9JYlMxbjBVK05Ba1BUdXVFTFBwK0FFMUl1Q2Rna3FsV1FXNHNOcGR5bVZzZ1ZXRjdpQmkyQ2E1YndGeUx4cllNZzREUT09Cg==",
+      "url": "https://github.com/facundopidal/MW-Updates/raw/refs/heads/main/downloads/multi-whatsapp_0.1.2_x64_en-US.msi"
     }
   }
 }
