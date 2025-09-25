@@ -1,11 +1,11 @@
 {
-  "version": "0.1.2",
-  "notes": "Se mejoro el detector de login y se agrego visualizacion de 5 cuentas por fila a pantallas grandes",
-  "pub_date": "2025-09-24T15:01:31-03:00",
+  "version": "0.1.4",
+  "notes": "Se eliminó logica de migración de etiquetas. Se actualizó el nombre y el ícono de la app.",
+  "pub_date": "2025-09-25T12:31:00-03:00",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbkxIYXBBbmZ3WXcreThHVlR2b0drWFU3dktDVzBER0RmUHlvNng2VURrcUZ2MDRBTDMrWERpY0h5YU1ZSG1GSE5iZno5Q1krSGlnNm5uMTc4MDlLMmZ0SDNGaHYwd0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU4NzM2ODI2CWZpbGU6bXVsdGktd2hhdHNhcHBfMC4xLjJfeDY0X2VuLVVTLm1zaQp6dzJEamxoVjhyODVYeXZ4ak9JYlMxbjBVK05Ba1BUdXVFTFBwK0FFMUl1Q2Rna3FsV1FXNHNOcGR5bVZzZ1ZXRjdpQmkyQ2E1YndGeUx4cllNZzREUT09Cg==",
-      "url": "https://github.com/facundopidal/MW-Updates/raw/refs/heads/main/downloads/multi-whatsapp_0.1.2_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbkxIYXBBbmZ3WTVYRmhPMmtNNFRicTlXMDkxcWJRbCtoZWU1d0s2WFlGNWRkb0Y0NXNFNlBKdTZjMnRHUjhhZTJNcFZWUGJ3UHI1bEJUVWJlTWVXdVhUamF4clVjZ0F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU4ODE0MDkwCWZpbGU6TXVsdGkgV2hhdHNBcHBfMC4xLjRfeDY0X2VuLVVTLm1zaQpjUnpQUm4yTmtNNjI4ZkNWRExYV2NycXFmYzV0M1lnZFFmTFg5a2Q0MExHd3hXMjk2cjVzZlFyUjJNemdFb2s2clZKd3AwMDJXdldIWVRCUmNjdldBdz09Cg==",
+      "url": "https://github.com/facundopidal/MW-Updates/raw/refs/heads/main/downloads/Multi WhatsApp_0.1.4_x64_en-US.msi"
     }
   }
 }
