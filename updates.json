@@ -1,11 +1,11 @@
 {
-  "version": "0.1.6",
-  "notes": "Se arregló el problema de detección de estado de login",
-  "pub_date": "2025-09-25T20:48:00-03:00",
+  "version": "0.1.8",
+  "notes": "Se arregló definitivamente el problema de detección de estado de login en cuentas de WhatsApp Business",
+  "pub_date": "2025-09-30T11:30:00-03:00",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbkxIYXBBbmZ3WTlkYzBwcGJRMmpycWFlR1owSkNJSXpKMmw2ZENrMWVwWU13OXl1UXpQYStjcU9nS2VETWgwaVZWcW10ckNETlRTNDkwb01ZdmVISmlVci9ST3MvNXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU4ODQ0NDg2CWZpbGU6TXVsdGkgV2hhdHNBcHBfMC4xLjZfeDY0X2VuLVVTLm1zaQpXUDd0M2JQaHZRNVY5MTFRbmt4QlVicjZxQmNTcHo5cTAvc0ErUEpDZGN3cUgxMi9USXZZUlYyWldpMXIyMEVOOFZJcUwyNmdmN3N1UFNKOXJzbVBEdz09Cg==",
-      "url": "https://github.com/facundopidal/MW-Updates/raw/refs/heads/main/downloads/Multi WhatsApp_0.1.6_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbkxIYXBBbmZ3WXdUa3diKy9nRHkwS2YrNnFJSTlIckJRSWxuWENseGxQTUhKWWdZK0U2K0doUzFWTk9aUzV4L29uUkFybnk4dG1ZUHRiSHltUHNkZDFYQVVsTHEweUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU5MjQzMjcxCWZpbGU6TXVsdGkgV2hhdHNBcHBfMC4xLjhfeDY0X2VuLVVTLm1zaQpQK1N0SnJSZlhROXhHanpmTmE3Q0V0REZQNHk0S1VWVEx4SFpKM1NRQWt0QWtHSENCWUN5U05UemU3NTZTaFkxek1WdmJBMVVWSms5YW4xQitoR2NBdz09Cg==",
+      "url": "https://github.com/facundopidal/MW-Updates/raw/refs/heads/main/downloads/Multi WhatsApp_0.1.8_x64_en-US.msi"
     }
   }
 }
