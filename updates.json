@@ -1,11 +1,11 @@
 {
-  "version": "0.1.8",
-  "notes": "Se arregló definitivamente el problema de detección de estado de login en cuentas de WhatsApp Business",
-  "pub_date": "2025-09-30T11:30:00-03:00",
+  "version": "0.1.9",
+  "notes": "Se agregó el soporte para drag and drop dentro de los chats.",
+  "pub_date": "2025-10-01T13:50:00-03:00",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbkxIYXBBbmZ3WXdUa3diKy9nRHkwS2YrNnFJSTlIckJRSWxuWENseGxQTUhKWWdZK0U2K0doUzFWTk9aUzV4L29uUkFybnk4dG1ZUHRiSHltUHNkZDFYQVVsTHEweUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU5MjQzMjcxCWZpbGU6TXVsdGkgV2hhdHNBcHBfMC4xLjhfeDY0X2VuLVVTLm1zaQpQK1N0SnJSZlhROXhHanpmTmE3Q0V0REZQNHk0S1VWVEx4SFpKM1NRQWt0QWtHSENCWUN5U05UemU3NTZTaFkxek1WdmJBMVVWSms5YW4xQitoR2NBdz09Cg==",
-      "url": "https://github.com/facundopidal/MW-Updates/raw/refs/heads/main/downloads/Multi WhatsApp_0.1.8_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbkxIYXBBbmZ3WSs2bTlxem1WRjIyRmpBM0c5NGVlUXV2RVVnbFdxdno0M2dlWkVFc1psUzE2UU1uWHNuODV0NS80Y2lRVFJpZENQbHhVYWRBbnVaMnNVeEVzbkplUkFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU5MzM3MzM2CWZpbGU6TXVsdGkgV2hhdHNBcHBfMC4xLjlfeDY0X2VuLVVTLm1zaQpsWm1pbEFoMmE0QmZhQy9xS1lGZDFMaEVuZjlzUlN2YjdaUjZKSG9sWmx1WFNuZXdYenlneUsvdTBsNms1eWhxUnNNZ00rOW9BMjg0MWp2dTZXVkFCUT09Cg==",
+      "url": "https://github.com/facundopidal/MW-Updates/raw/refs/heads/main/downloads/Multi WhatsApp_0.1.9_x64_en-US.msi"
     }
   }
 }
